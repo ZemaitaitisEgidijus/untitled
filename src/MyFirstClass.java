@@ -44,4 +44,5 @@ public class MyFirstClass {
 //git init
 //git add .
 //git commit -m "tekstas"
-//git remote add origin https://github.com/ZemaitaitisEgidijus/1-3_class-work-20.03.git
+//git remote add origin https://github.com/ZemaitaitisEgidijus/1-3_class-work-20.03.git 
+// bla bla lba bandymas
